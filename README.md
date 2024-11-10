@@ -8,9 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C944%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -18,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 317 Contributions in the Year 2024
+> 🏆 319 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,36 +24,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 5 Private Repositories 
  > 
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Tuesday                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Wednesday                113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Friday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 117 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Sunday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    40 hrs 30 mins      ██████████████████████░░░   87.41 % 
-Markdown                 2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Lua                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Ignore List              46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Python                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-
-🔥 Editors: 
-Chrome                   46 hrs 20 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      46 hrs 20 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -70,8 +38,8 @@ C                        1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/cotecsz/cotecsz/master/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/Kanekicn/Kanekicn/master/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 16:37:49 UTC
+ Last Updated on 10/11/2024 16:37:30 UTC
 <!--END_SECTION:waka-->
