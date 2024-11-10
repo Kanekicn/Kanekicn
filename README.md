@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cotecsz
+- 👋 Hi, I’m @Kanekicn
 - 👀 I’m interested in Algorithm development.
 - 🌱 I’m currently learning C++, Python, Web development.
 
