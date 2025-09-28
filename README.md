@@ -8,8 +8,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C603%20hrs%2038%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
@@ -18,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 271 Contributions in the Year 2025
+> 🏆 272 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,36 +24,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 8 Private Repositories 
  > 
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   218 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Tuesday                  154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Wednesday                162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Friday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Saturday                 173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Sunday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    55 hrs 8 mins       █████████████████████████   99.83 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-🔥 Editors: 
-Chrome                   54 hrs 54 mins      █████████████████████████   99.41 % 
-Edge                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-
-💻 Operating System: 
-Mac                      52 hrs 43 mins      ████████████████████████░   95.45 % 
-Windows                  2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -73,5 +41,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanekicn/Kanekicn/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 16:38:02 UTC
+ Last Updated on 28/09/2025 16:37:46 UTC
 <!--END_SECTION:waka-->
