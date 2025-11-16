@@ -8,8 +8,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C986%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
@@ -18,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 319 Contributions in the Year 2025
+> 🏆 320 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,34 +24,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 8 Private Repositories 
  > 
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   225 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Wednesday                169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Thursday                 183 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Friday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Saturday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Sunday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    65 hrs 23 mins      █████████████████████████   99.31 % 
-Image (svg)              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-
-🔥 Editors: 
-Chrome                   62 hrs 41 mins      ████████████████████████░   95.20 % 
-Edge                     3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-
-💻 Operating System: 
-Mac                      65 hrs 51 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -71,5 +41,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanekicn/Kanekicn/master/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 16:38:52 UTC
+ Last Updated on 16/11/2025 16:39:06 UTC
 <!--END_SECTION:waka-->
