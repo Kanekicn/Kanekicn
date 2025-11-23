@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C059%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C070%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 326 Contributions in the Year 2025
+> 🏆 327 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,13 +29,13 @@ You can click the Preview link to take a look at your changes.
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   226 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Tuesday                  161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Wednesday                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Thursday                 184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Friday                   170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Saturday                 181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Sunday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Monday                   226 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Tuesday                  161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Wednesday                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Thursday                 184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Friday                   170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Sunday                   163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
 ```
 
 
@@ -43,15 +43,15 @@ Sunday                   162 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    72 hrs 57 mins      █████████████████████████   99.92 % 
+Other                    73 hrs 52 mins      █████████████████████████   99.92 % 
 Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Chrome                   69 hrs 34 mins      ████████████████████████░   95.28 % 
-Edge                     3 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Chrome                   70 hrs 18 mins      ████████████████████████░   95.10 % 
+Edge                     3 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 💻 Operating System: 
-Mac                      73 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      73 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -71,5 +71,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanekicn/Kanekicn/master/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2025 16:39:30 UTC
+ Last Updated on 23/11/2025 16:39:26 UTC
 <!--END_SECTION:waka-->
