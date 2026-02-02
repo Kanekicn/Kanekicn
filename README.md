@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C709%20hrs%2013%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.71%20million%20lines%20of%20code-blue?style=flat)
@@ -16,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2026
+> 🏆 32 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,6 +26,34 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 8 Private Repositories 
  > 
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Tuesday                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Wednesday                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Thursday                 193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Saturday                 191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Sunday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    59 hrs 47 mins      █████████████████████████   99.93 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🔥 Editors: 
+Chrome                   59 hrs 29 mins      █████████████████████████   99.45 % 
+Edge                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+
+💻 Operating System: 
+Mac                      59 hrs 49 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -41,5 +71,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanekicn/Kanekicn/master/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 16:45:31 UTC
+ Last Updated on 02/02/2026 16:48:26 UTC
 <!--END_SECTION:waka-->
