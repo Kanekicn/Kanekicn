@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C480%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C484%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.05%20million%20lines%20of%20code-blue?style=flat)
 
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2026
+> 🏆 117 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,13 +29,13 @@ You can click the Preview link to take a look at your changes.
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   265 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Monday                   265 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
 Tuesday                  184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
 Wednesday                193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Thursday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Friday                   225 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Saturday                 215 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Thursday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Friday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Saturday                 215 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Sunday                   185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
 ```
 
 
@@ -43,14 +43,14 @@ Sunday                   185 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    59 hrs 12 mins      █████████████████████████   99.30 % 
-Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    49 hrs 57 mins      █████████████████████████   99.43 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Chrome                   59 hrs 37 mins      █████████████████████████   100.00 % 
+Chrome                   50 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      59 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      50 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,5 +70,5 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanekicn/Kanekicn/master/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2026 17:03:33 UTC
+ Last Updated on 01/05/2026 16:51:30 UTC
 <!--END_SECTION:waka-->
