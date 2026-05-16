@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C611%20hrs%2042%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.05%20million%20lines%20of%20code-blue?style=flat)
@@ -16,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 131 Contributions in the Year 2026
+> 🏆 132 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,6 +26,33 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 13 Private Repositories 
  > 
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   267 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Tuesday                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Wednesday                195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Thursday                 210 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Friday                   228 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Saturday                 218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Sunday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    80 hrs 35 mins      █████████████████████████   98.31 % 
+Markdown                 1 hr 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+
+🔥 Editors: 
+Chrome                   81 hrs 58 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      81 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -41,5 +70,5 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanekicn/Kanekicn/master/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 17:08:06 UTC
+ Last Updated on 16/05/2026 16:51:11 UTC
 <!--END_SECTION:waka-->
