@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 137 Contributions in the Year 2026
+> 🏆 138 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,33 +24,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 13 Private Repositories 
  > 
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Wednesday                195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Thursday                 211 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Friday                   229 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Saturday                 218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Sunday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    67 hrs 40 mins      ████████████████████████░   97.68 % 
-Markdown                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-
-🔥 Editors: 
-Chrome                   69 hrs 16 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      69 hrs 16 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -68,5 +41,5 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanekicn/Kanekicn/master/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 17:18:43 UTC
+ Last Updated on 23/05/2026 16:51:47 UTC
 <!--END_SECTION:waka-->
