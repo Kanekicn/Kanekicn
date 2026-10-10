@@ -14,30 +14,30 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152.92%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.2 MB Used in GitHub's Storage 
+> 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 273 Contributions in the Year 2026
+> 🏆 277 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Tuesday                  7497 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Wednesday                5555 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Thursday                 9319 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Friday                   8206 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Saturday                 4844 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Sunday                   8237 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Monday                   6482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Tuesday                  7497 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Wednesday                5555 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Thursday                 9319 commits        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Friday                   8209 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Saturday                 4875 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Sunday                   8237 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 ```
 
 
@@ -45,14 +45,14 @@ Sunday                   8237 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    22 hrs 59 mins      █████████████████████████   99.94 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    40 hrs 52 mins      █████████████████████████   99.96 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Chrome                   23 hrs              █████████████████████████   100.00 % 
+Chrome                   40 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs              █████████████████████████   100.00 % 
+Mac                      40 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,11 +64,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ██████████░░░░░░░░░░░░░░░   38.71 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -78,5 +78,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kanekicn/Kanekicn/master/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 21:40:51 UTC
+ Last Updated on 10/10/2026 20:23:09 UTC
 <!--END_SECTION:waka-->
